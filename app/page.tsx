@@ -1,4 +1,4 @@
-// ÚLTIMO CAPÍTULO FOI O 7, PRÓXIMO É O 8
+// ÚLTIMO CAPÍTULO FOI O 11, PRÓXIMO É O 12
 
 import AcmeLogo from '@/app/ui/acme-logo'
 import { ArrowRightIcon } from '@heroicons/react/24/outline'
